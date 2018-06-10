@@ -1,5 +1,5 @@
 {
-  "name": "@dylanjs/slashless",
+  "name": "@dylan/slashless",
   "version": "0.1.0",
   "description": "Middleware for Dylan which redirects trailing slash requests.",
   "license": "MIT",

@@ -4,12 +4,12 @@ Middleware for Dylan which redirects trailing slash requests.
 
 ## Install
 
-`npm install @dylanjs/slashless`
+`npm install @dylan/slashless`
 
 ## Usage
 
 ``` js
-const slashless = require('@dylanjs/slashless');
+const slashless = require('@dylan/slashless');
 app.use(slashless());
 ```
 
